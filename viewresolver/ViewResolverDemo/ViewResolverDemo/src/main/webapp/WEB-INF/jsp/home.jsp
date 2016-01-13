@@ -8,6 +8,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 <!--Adding comments to the home page -->
+
+<!-- These are changes from the development branch -->
 </head>
 <body>
 	
